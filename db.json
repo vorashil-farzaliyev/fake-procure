@@ -1,6 +1,7 @@
 {
   "purchase-order": [
     {
+      "id":"LGO0405210",
   "orderNumber": "LGO0405210",
   "supplierSiteGLN": "132655321765",
   "buyerLegalEntityErpId": "HUT",

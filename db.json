@@ -1,65 +1,65 @@
 {
   "purchase-order": [
     {
-      "id":"LGO0405210",
-  "orderNumber": "LGO0405210",
-  "supplierSiteGLN": "132655321765",
-  "buyerLegalEntityErpId": "HUT",
-  "buyerLegalEntity": "The Hut.com Ltd",
-  "buyerLegalEntityGLN": "5059465000648",
-  "buyerVatNumber": "1231231",
-  "paymentTerm": "7 days after next month end",
-  "shippingCost": 0.0,
-  "currency": "GBP",
-  "createDate": "2020-05-04T13:40:52",
-  "requestedDeliveryStartDate": "2020-05-17T00:00:00",
-  "requestedDeliveryEndDate": "2020-05-17T00:00:00",
-  "deliveryAddress": {
-    "name": "The Hut Group",
-    "companyName": "The Hut Group",
-    "addressLine1": "Omega South",
-    "addressLine2": "Skyline Drive, Great Sankey",
-    "city": "Warrington",
-    "state": "Cheshire",
-    "postcode": "WA5 3UG",
-    "countryCode": "GB",
-    "email": "CourierResponses@thehutgroup.com",
-    "phoneNumber": "01925 111111",
-    "deliveryAddressErpId":31,
-    "warehouseErpId":31
-  },
-  "orderLines": [
-    {
-      "productId": 30021592,
-      "title": "LEGO DUPLO Creative Play: All-in-One-Box-of-Fun (10572)",
-      "catalogueNumber": "10572",
-      "barcode": "5702015115551",
-      "unitOfMeasure": "EA",
-      "quantity": 100,
-      "unitPrice": 20.99,
-      "currency": "GBP"
-    },
-    {
-      "productId": 30021593,
-      "title": "LEGO Classic: Large Creative Brick Box (10698)",
-      "catalogueNumber": "10698",
-      "barcode": "5702015357197",
-      "unitOfMeasure": "EA",
-      "quantity": 50,
-      "unitPrice": 10.55,
-      "currency": "GBP"
-    },
-    {
-      "productId": 30021594,
-      "title": "LEGO Architecture: New York City (21028)",
-      "catalogueNumber": "21028",
-      "barcode": "5702015591218",
-      "unitOfMeasure": "EA",
-      "quantity": 15,
-      "unitPrice": 5.0,
-      "currency": "GBP"
+      "id": "LGO0405210",
+      "orderNumber": "LGO0405210",
+      "supplierSiteGLN": "132655321765",
+      "buyerLegalEntityErpId": "HUT",
+      "buyerLegalEntity": "The Hut.com Ltd",
+      "buyerLegalEntityGLN": "5059465000648",
+      "buyerVatNumber": "1231231",
+      "paymentTerm": "7 days after next month end",
+      "shippingCost": 0.0,
+      "currency": "GBP",
+      "createDate": "2020-05-04T13:40:52",
+      "requestedDeliveryStartDate": "2020-05-17T00:00:00",
+      "requestedDeliveryEndDate": "2020-05-17T00:00:00",
+      "deliveryAddress": {
+        "name": "The Hut Group",
+        "companyName": "The Hut Group",
+        "addressLine1": "Omega South",
+        "addressLine2": "Skyline Drive, Great Sankey",
+        "city": "Warrington",
+        "state": "Cheshire",
+        "postcode": "WA5 3UG",
+        "countryCode": "GB",
+        "email": "CourierResponses@thehutgroup.com",
+        "phoneNumber": "01925 111111",
+        "deliveryAddressErpId": 31,
+        "warehouseErpId": 31
+      },
+      "orderLines": [
+        {
+          "productId": 30021592,
+          "title": "LEGO DUPLO Creative Play: All-in-One-Box-of-Fun (10572)",
+          "catalogueNumber": "10572",
+          "barcode": "5702015115551",
+          "unitOfMeasure": "EA",
+          "quantity": 100,
+          "unitPrice": 20.99,
+          "currency": "GBP"
+        },
+        {
+          "productId": 30021593,
+          "title": "LEGO Classic: Large Creative Brick Box (10698)",
+          "catalogueNumber": "10698",
+          "barcode": "5702015357197",
+          "unitOfMeasure": "EA",
+          "quantity": 50,
+          "unitPrice": 10.55,
+          "currency": "GBP"
+        },
+        {
+          "productId": 30021594,
+          "title": "LEGO Architecture: New York City (21028)",
+          "catalogueNumber": "21028",
+          "barcode": "5702015591218",
+          "unitOfMeasure": "EA",
+          "quantity": 15,
+          "unitPrice": 5.0,
+          "currency": "GBP"
+        }
+      ]
     }
-  ]
-}
   ]
 }
